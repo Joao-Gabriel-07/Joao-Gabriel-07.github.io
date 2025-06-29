@@ -1,1 +1,50 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+}
 
+header {
+  background-color: #1e3d59;
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+section {
+  padding: 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  border-bottom: 2px solid #1e90ff;
+  padding-bottom: 5px;
+  color: #1e3d59;
+}
+
+.projeto {
+  background-color: white;
+  padding: 15px;
+  margin: 10px 0;
+  border-left: 4px solid #1e90ff;
+}
+
+.projeto a {
+  color: #1e90ff;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #1e3d59;
+  color: white;
+  margin-top: 20px;
+}
+
+a {
+  color: #1e90ff;
+}
