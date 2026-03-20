@@ -6,6 +6,13 @@ body {
   line-height: 1.6;
 }
 
+img {
+    max-width: 100%; 
+    height: auto;
+    border-radius: 5px;
+}
+
+
 header {
   background-color: #1e3d59;
   color: white;
